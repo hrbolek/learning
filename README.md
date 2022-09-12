@@ -1,5 +1,10 @@
 # Teaching resources
 
+## Ne IT
+
+- Pokud hledáte operační analýzu, pravděpodobně chcete [tento dokument](./OA.md)
+- Pokud hledáte výukové materiály (ipynb soubory), najdete je v adresáři notebooks. Mnohé z nich můžete otevřít s pomocí služby https://colab.google.com
+
 ## Desription
 
 This is repository for teaching students. It is based on Jupyter. Some notebooks can be used in Google Colaboratory. Others expect the Docker stack defined by docker-compose.yaml file.
