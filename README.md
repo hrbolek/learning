@@ -3,7 +3,7 @@
 ## Ne IT
 
 - Pokud hledáte operační analýzu, pravděpodobně chcete [tento dokument](./OA.md)
-- Pokud hledáte výukové materiály (ipynb soubory), najdete je v adresáři notebooks. Mnohé z nich můžete otevřít s pomocí služby https://colab.google.com
+- Pokud hledáte výukové materiály (ipynb soubory), najdete je v adresáři notebooks. Mnohé z nich můžete otevřít s pomocí služby https://research.google.com/colaboratory
 
 ## Desription
 

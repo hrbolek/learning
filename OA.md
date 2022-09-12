@@ -8,7 +8,7 @@ Toto je speciální konfigurace pro studenty předmětu operační analýza
 
 [Operační analýza](https://colab.research.google.com/github/hrbolek/learning/blob/master/notebooks/operanalyst/operanalyst.ipynb)
 
-### Metody síťové analýzy
+### Matematické programování
 
 [Lineární programování díl 1.](https://colab.research.google.com/github/hrbolek/learning/blob/master/notebooks/operanalyst/linearprog.ipynb)
 
