@@ -18,6 +18,9 @@ services:
 
   jupyter:
     image: jupyter/tensorflow-notebook
+    build:
+      context: ./jupyter
+      dockerfile: ./Dockerfile
     restart: always
     ports:
       - 31002:8888
